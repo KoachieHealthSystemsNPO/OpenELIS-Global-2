@@ -1267,6 +1267,33 @@ tr.border_top td {
 	cursor: pointer;
 }
 
+
+.form-div {
+	width: 100%;
+	margin-bottom: 5px;
+}
+
+.form-div label {
+	margin-bottom: 5px;
+	display: inline-block;
+}
+
+.form-control {
+	display: block;
+	padding: 5px 10px;
+}
+
+.edit-report-form {
+	padding: 10px 20px;
+}
+
+.current-report {
+	background: #5eb95e;
+}
+
+.report-ordering-panel {
+	width: 400px;
+
 view-non-conforming-section-1 > td {
 	width: 25%;
 }
@@ -1300,4 +1327,5 @@ view-non-conforming-section-1 > td {
 
 .column-right-text {
 	float: right;
+
 }
